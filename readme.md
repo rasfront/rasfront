@@ -1,4 +1,4 @@
-# Rasul Kakushev - Senior Frontend developer (React / React native) 🧑‍💻
+# Rasul Kakushev - Senior Frontend Developer (React / React native) 🧑‍💻
 
 Welcome to my GitHub profile! I'm Rasul, a Frontend developer specializing in iOS / Android and web development.
 
