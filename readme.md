@@ -9,8 +9,11 @@ Welcome to my GitHub profile! I'm Rasul, a Frontend developer specializing in iO
 * Redux / RTK / Mobx / MST
 * Native iOS / Android development (Java, Kotlin, Swift, Objective-C)
 * React native modules (turbo / expo)
-* Shell scripting
-* Microfrontends / Monorepos
+* Shell / Bash scripting
+* Micro-frontends / Monorepos
+* Sockets
+* Firebase / REST / GraphQL
+* Deeplinking / Dynamic links
 
 ## About Me ℹ️
 
