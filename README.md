@@ -1,16 +1,23 @@
-## Hi there 👋
+# Rasul Kakushev - Senior Frontend developer (React / React native) 🧑‍💻
 
-<!--
-**rasfront/rasfront** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Rasul, a Frontend developer specializing in iOS / Android and web development.
 
-Here are some ideas to get you started:
+## Skills 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* JavaScript / TypeScript
+* React / React Native
+* Redux / RTK / Mobx / MST
+* Native iOS / Android development (Java, Kotlin, Swift, Objective-C)
+* React native modules (turbo / expo)
+* Shell scripting
+* Microfrontends / Monorepos
+
+## About Me ℹ️
+
+* Extensive experience working with various technologies.
+* Primary focus on frontend development.
+* Experience as a team lead (managing 1-2 people).
+* Experience in developing products from scratch to production.
+* Experience in maintaining existing products, handling client errors, and finding solutions.
+
+More information about me in my [LinkedIn](https://www.linkedin.com/in/rasfront)
