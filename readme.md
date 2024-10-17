@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Rasul, a Frontend developer specializing in iO
 ## Skills 💪
 
 * JavaScript / TypeScript
-* React / React Native
+* React / React Native / Expo
 * Redux / RTK / Mobx / MST
 * Native iOS / Android development (Java, Kotlin, Swift, Objective-C)
 * React native modules (turbo / expo)
